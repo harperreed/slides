@@ -1,4 +1,4 @@
-#Some presentations
+#Harper Reed's Presentations
 ![](https://harperreed.org/imgs/harper/harper_18.jpg)
 
 I like to give talks.
